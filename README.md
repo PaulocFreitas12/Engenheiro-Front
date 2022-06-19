@@ -1,6 +1,6 @@
 # Engenheiro-Front
 
-#### EBAC
+#### EBAC - Escola Britanica de Artes Criativas
 
 # GIT
 ## Conceitos de versionamento
