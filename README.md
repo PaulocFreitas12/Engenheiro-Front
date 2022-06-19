@@ -64,4 +64,5 @@ O respositório resolve os conflitos automaticamente
 
 ### configura o GitFlow
 > git flow init
-> git flow feature start {nome-da-feature}
+> git flow feature start {nome-da-feature}     
+#testando apenas hehe
